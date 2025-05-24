@@ -5,6 +5,5 @@ SAAMU-Net: A Selective Attention Aggregation and Memory-Augmented U-Net Model fo
 
 ## An illustration of attention blocks: (a) SAA and (b) MAA
 ![Image](https://github.com/user-attachments/assets/fe3e91da-c216-4dac-be08-de1078a47107)
-## Some original images and corresponding GradCAM images extracted
-## from the decoder layer for datasets: (a) TNBC, (b) CPM17, and (c) CNS
+## Some original images and corresponding GradCAM images extracted from the decoder layer for datasets: (a) TNBC, (b) CPM17, and (c) CNS
 ![Image](https://github.com/user-attachments/assets/071d9978-c432-433d-982e-3a080eda179b)
